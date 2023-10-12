@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcRepo", "MvcRepo\MvcRepo.csproj", "{46F48DCB-4F36-4ABF-B64F-48C716BC9CF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46F48DCB-4F36-4ABF-B64F-48C716BC9CF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46F48DCB-4F36-4ABF-B64F-48C716BC9CF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46F48DCB-4F36-4ABF-B64F-48C716BC9CF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46F48DCB-4F36-4ABF-B64F-48C716BC9CF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50E2DCE3-1785-4B9D-B543-1B70E68C1515}
+	EndGlobalSection
+EndGlobal
